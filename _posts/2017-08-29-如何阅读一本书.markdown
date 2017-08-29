@@ -4,7 +4,7 @@ title:      如何阅读一本书
 subtitle:   "书琳琅满目，你知道如何读吗？"
 date:       2017-08-29 12:00:00
 author:     "Jerry"
-header-img: /img/tag-bg.jpg
+header-img: img/tag-bg.jpg
 catalog:    true
 tags:
     - 学习
