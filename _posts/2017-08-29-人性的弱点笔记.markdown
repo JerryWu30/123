@@ -4,10 +4,10 @@ title:      "人性的弱点笔记"
 subtitle:   "人性的弱点，你知道吗？"
 date:       2017-08-29 12:00:00
 author:     "Jerry"
-catalog: true
+catalog:    true
 tags:
--学习
--笔记
+    - 学习
+    - 笔记
 ---
 #《如何阅读一本书》
 
