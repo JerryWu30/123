@@ -7,7 +7,7 @@ author:     "Jerry"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
-    - 学习
+    - 生活
 ---
 
 > “Yeah It's on. ”
