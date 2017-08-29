@@ -4,8 +4,6 @@ title:      "人性的弱点笔记"
 subtitle:   "人性的弱点，你知道吗？"
 date:       2017-08-29 12:00:00
 author:     "Jerry"
-header-img: "![](https://lh3.googleusercontent.com/-jfmlPVmPY2w/WaTe4dCpBFI/AAAAAAAABuY/xh03ZJfGWIcC9rlkY7cpOESzup3qZxTVQCHMYCw/I/15039771788897.png)
-"
 catalog: true
 tags:
 -学习
