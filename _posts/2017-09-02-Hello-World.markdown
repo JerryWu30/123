@@ -4,7 +4,7 @@ title: Hello World
 subtitle: "你好世界"
 date:       2017-09-02 12:00:00
 author:     "Jerry"
-header-img: img/tag-bg.jpg
+header-img: img/HelloWorld-cp.jpg
 comments:   true
 tags:
     - 学习
