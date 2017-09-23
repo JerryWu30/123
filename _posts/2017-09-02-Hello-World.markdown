@@ -29,7 +29,7 @@ Print("Hello World")
 
 第一门的编程语言选择了沉稳的编程语言Java，从此就像牙牙学语一般，根据书籍，在Eclipse上敲着书上的代码，点击Run的时候都是激动不已。后来逐渐学习，也能自己写一点小小的算法，开源程序上的代码也能略知五六。现在回忆起那段期间，第一次敲击的：“System.out.print("Hello World");”，点击Run，在Console中的“Hello World”字样是那般的真实。
 
-![](https://ws1.sinaimg.cn/large/006tNc79gy1fjtsyj7os7j30n00ij40a.jpg)
+![](https://ws1.sinaimg.cn/large/006tNc79gy1fjtt15humjj30mq0b8mym.jpg)
 
 时至今日，我觉得放下Java，放下我编程的初友，转向Python。为了迎接人工智能，我就此一搏Tensor Flow。
 
