@@ -7,8 +7,8 @@ author:     "Jerry"
 header-img: img/blog11.jpg
 comments:   true
 tags:
-    -教程
-    -生活
+    教程
+    生活
 ---
 # 用Jekyll和GitHubPages搭建属于自己的blog
 ## 前言
