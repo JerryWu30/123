@@ -8,7 +8,7 @@ header-img: img/blog11.jpg
 comments:   true
 tags:
     - 生活
-    - 编程
+    - 教程
 ---
 # 用Jekyll和GitHubPages搭建属于自己的blog
 ## 前言
