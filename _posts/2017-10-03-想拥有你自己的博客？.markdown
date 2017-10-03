@@ -4,7 +4,7 @@ title: 想拥有你自己的博客？
 subtitle: "生活太无趣？"
 date:       2017-10-03 20:00:00
 author:     "Jerry"
-header-img: img/tag-bg.jpg
+header-img: img/blog11.jpg
 comments:   true
 tags:
     - 生活
