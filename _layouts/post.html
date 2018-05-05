@@ -237,6 +237,35 @@ var gitment = new Gitment({
         client_secret: '110df008fcf58961ce5630b83eaa5840e0e859f7',
     },
 });
+	const myTheme = {
+  render(state, instance) {
+    const container = document.createElement('div')
+    container.lang = "en-US"
+    container.className = 'gitment-container gitment-root-container'
+    
+     // your custom component
+    container.appendChild(instance.renderSomething(state, instance))
+    
+    container.appendChild(instance.renderHeader(state, instance))
+    container.appendChild(instance.renderEditor(state, instance))
+    container.appendChild(instance.renderComments(state, instance))
+    container.appendChild(instance.renderFooter(state, instance))
+    return container
+  },
+  renderSomething(state, instance) {
+    const container = document.createElement('div')
+    container.lang = "en-US"
+    if (state.user.login) {
+      container.innerText = `Hello, ${state.user.login}`
+    }
+    return container
+  }
+}
+
+const gitment = new Gitment({
+  // ...
+  theme: myTheme,
+})
 gitment.render('gitmentContainer');
 </script>
 {% endif %}
