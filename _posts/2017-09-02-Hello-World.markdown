@@ -5,7 +5,6 @@ subtitle: "你好世界"
 date:       2017-09-02 12:00:00
 author:     "Jerry"
 header-img: img/HelloWorld-cp.jpg
-comments:   false
 tags:
     - 学习
     - 编程
