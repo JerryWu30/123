@@ -1,7 +1,7 @@
 # Site settings
 title: Jerry Blog
 SEOTitle: Jerry Blog
-header-img: img/pagess.jpg
+header-img: img/jerryyy.jpg
 email: jerrywhydel@gmail.com
 description: "努力改变世界"
 keyword: "Jerry, Jr吴基镕, Wu,学霸 , whydel, @whydel, 吴基镕的博客, Jerry Blog, 博客"
@@ -67,7 +67,7 @@ ga_domain: whydel.top
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "    人生不过如此"
+sidebar-about-description: "爱你就像爱生命"
 sidebar-avatar: /img/logo.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
