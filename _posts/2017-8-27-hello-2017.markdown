@@ -5,7 +5,7 @@ subtitle:   " \"Hello World, Hello Blog\""
 date:       2017-08-27 12:00:00
 author:     "Jerry"
 header-img: "img/post-bg-2015.jpg"
-catalog: true
+catalog: false
 tags:
 - 生活
 ---
