@@ -1,3 +1,3 @@
-I am Jerry. I am creating my wealth.
+I am Jerry. I am fond of yy.
 
 
