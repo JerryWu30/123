@@ -1,13 +1,14 @@
+---
 layout:     post
 title: Do Yourself
 subtitle: "追随真我"
 date:       2019-11-13
 author:     "Jerry"
 catalog: true
-header-img: img/.jpg
+header-img: img/k.jpg
 tags:
-
 - 思考
+---
 
 Do Yourself
 
