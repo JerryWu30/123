@@ -5,7 +5,7 @@ subtitle: "追随真我"
 date:       2019-11-13
 author:     "Jerry"
 catalog: true
-header-img: img/k.jpg
+header-img: img/1113.jpg
 tags:
 - 思考
 ---
